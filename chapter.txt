@@ -1,1 +1,10 @@
 Hello World!
+git status - para ver se há algo novo, pra ver o status da nova coisa
+
+git add "nomedoarquivo" - para adicionalo a lista para commit
+
+git add . to do the same thing, but for all files simutaneosly
+
+git commit -m "messageforidentificationofthefile" - this is for create a new version of a file if it was changed
+
+git checkout "filename" - it comes to get back for a old version when the present one maybe get messed'up
